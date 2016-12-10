@@ -1,6 +1,6 @@
 {
   "name": "Bullet-man",
   "tagline": "",
-  "body": "#Objetivo Del Proyecto\r\nAlcanzar la mayor distancia, en los tres niveles, \r\npara esto necesitas avanzar cuando el indicador este en amarillo.\r\n\r\n##Descripción del Proyecto\r\nEl juego consiste en arrojar al hombre bala lo más lejos posible, para que puedas hacer esto hay una barra con los siguientes colores ROJO, AMARILLO, VERDE, cada color te da 2,10,5 puntos respectivamente.\r\nCuenta con tres niveles si en tres niveles logras atinarle al color amarillo podrás ser el ganador de lo contrario tendrás que intentarlo de nuevo, en cada nivel el índice va aumentando de velocidad.\r\n\r\n##Niveles\r\n",
+  "body": "#Objetivo Del Proyecto\r\nAlcanzar la mayor distancia, en los tres niveles, \r\npara esto necesitas avanzar cuando el indicador este en amarillo.\r\n\r\n##Descripción del Proyecto\r\nEl juego consiste en arrojar al hombre bala lo más lejos posible, para que puedas hacer esto hay una barra con los siguientes colores ROJO, AMARILLO, VERDE, cada color te da 2,10,5 puntos respectivamente.\r\nCuenta con tres niveles si en tres niveles logras atinarle al color amarillo podrás ser el ganador de lo contrario tendrás que intentarlo de nuevo, en cada nivel el índice va aumentando de velocidad.\r\n\r\n##Link\r\n\r\n<https://www.youtube.com/watch?v=ThqUE3k2_jU&feature=youtu.be>\r\n<http://www.greenfoot.org/scenarios/18437>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
